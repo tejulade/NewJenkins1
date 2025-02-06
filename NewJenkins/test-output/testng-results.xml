@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[AssignemntOfJenkins class is added]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-02-06T19:25:16 IST" name="Default suite" finished-at="2025-02-06T19:25:16 IST" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2025-02-06T19:25:16 IST" name="Default test" finished-at="2025-02-06T19:25:16 IST" duration-ms="49">
+      <class name="DemoNew.AssignemntOfJenkins">
+        <test-method signature="NewJenkin()[pri:0, instance:DemoNew.AssignemntOfJenkins@4f18837a]" started-at="2025-02-06T19:25:16 IST" name="NewJenkin" finished-at="2025-02-06T19:25:16 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AssignemntOfJenkins class is added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NewJenkin -->
+      </class> <!-- DemoNew.AssignemntOfJenkins -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
